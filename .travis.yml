@@ -19,4 +19,5 @@ script:
   - make debug
   - ./travis_qmake_gcc_cpp14_clang-tidy
   # clang-tidy
-  - ./do_clang-tidy
+  - ./do_clang-tidy 2>/dev/null
+
