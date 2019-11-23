@@ -1,8 +1,9 @@
 # travis_qmake_gcc_cpp14_clang-tidy
 
-Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
----|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_clang-tidy.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_clang-tidy)
+Branch |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+master |[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_clang-tidy.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_clang-tidy)
+develop|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_clang-tidy.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_clang-tidy)
 
 This GitHub is part of:
 
@@ -19,7 +20,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
 
 More complex builds:
 
- * [none]
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_clang-tidy.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_clang-tidy) Add `clang-tidy`: [travis_qmake_gcc_cpp17_clang-tidy](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17_clang-tidy)
 
 Builds of similar complexity:
 
